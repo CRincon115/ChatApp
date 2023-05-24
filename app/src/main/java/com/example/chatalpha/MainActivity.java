@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
 //            actionBar.hide();
 //        }
 
-        getSupportActionBar().hide();
+//        getSupportActionBar().hide();
 
         switcher = findViewById(R.id.switcher);
 
