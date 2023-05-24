@@ -1,4 +1,4 @@
-package com.example.chatalpha;
+package com.example.chatalpha.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,12 +8,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Switch;
 
-import androidx.appcompat.app.ActionBar;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
 
-import com.example.chatalpha.activities.LoginActivity;
-import com.example.chatalpha.activities.RegisterActivity;
+import com.example.chatalpha.R;
 
 public class MainActivity extends AppCompatActivity {
 
